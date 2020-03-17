@@ -3,4 +3,4 @@
 ![LID Driven Cavity](postProcessing/Solution_figure1.png)
 ![LID Driven Cavity](postProcessing/Solution_figure2.png)
 ![LID Driven Cavity](postProcessing/Solution_figure4.png)
-
+![LID Driven Cavity](postProcessing/Solution_figureValidation1.png)
